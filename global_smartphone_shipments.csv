@@ -1,0 +1,19 @@
+Company,Region,Shipments_Millions
+Samsung,North America,45
+Samsung,Europe,65
+Samsung,Asia,180
+Apple,North America,70
+Apple,Europe,60
+Apple,Asia,105
+Xiaomi,Europe,40
+Xiaomi,Asia,115
+OPPO,Europe,25
+OPPO,Asia,90
+Vivo,Asia,105
+Huawei,Asia,80
+Huawei,Europe,35
+Google,North America,15
+Google,Europe,10
+Other,North America,20
+Other,Europe,50
+Other,Asia,355

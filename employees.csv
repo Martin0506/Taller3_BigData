@@ -1,0 +1,11 @@
+employee_id,name,department,salary,years_of_service,performance_score
+101,Alice Chen,Engineering,85000,3,92
+102,Bob Smith,Marketing,72000,5,88
+103,Carlos Garcia,Sales,68000,2,95
+104,Diana Kim,Engineering,92000,7,86
+105,Ethan Jones,Marketing,78000,4,91
+106,Fatima Ahmed,Engineering,110000,10,89
+107,George Miller,Sales,75000,6,93
+108,Hannah Wilson,HR,65000,3,84
+109,Ian Thompson,Engineering,95000,8,97
+110,Jennifer Lopez,Marketing,81000,5,90
