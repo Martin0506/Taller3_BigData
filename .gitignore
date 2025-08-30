@@ -1,0 +1,5 @@
+# Ignorar la carpeta ./Parte2/data
+Parte2/data/
+
+# Ignorar la carpeta ./Parte2/output
+Parte2/output/
